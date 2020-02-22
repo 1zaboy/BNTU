@@ -1,0 +1,11 @@
+﻿  Calculate.c
+C:\Users\Vlad\source\repos\KURS_OAIP\KURS_OAIP\Calculate.c(25,24): warning C4244: функция: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Vlad\source\repos\KURS_OAIP\KURS_OAIP\Calculate.c(28,24): warning C4244: функция: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Vlad\source\repos\KURS_OAIP\KURS_OAIP\Calculate.c(44,30): warning C4244: функция: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Vlad\source\repos\KURS_OAIP\KURS_OAIP\Calculate.c(61,23): warning C4020: SetStringLog: слишком много фактических параметров
+  Создание кода
+  10 of 16 functions (62.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  KURS_OAIP.vcxproj -> C:\Users\Vlad\source\repos\KURS_OAIP\Release\KURS_OAIP.exe
